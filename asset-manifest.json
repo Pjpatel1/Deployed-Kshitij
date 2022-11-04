@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Deployed-Kshitij/static/css/main.c5664279.css",
+    "main.js": "/Deployed-Kshitij/static/js/main.60d01488.js",
+    "static/js/787.db161c45.chunk.js": "/Deployed-Kshitij/static/js/787.db161c45.chunk.js",
+    "static/media/Socialmedia-mobile.jpeg": "/Deployed-Kshitij/static/media/Socialmedia-mobile.a9096db56422153b519b.jpeg",
+    "static/media/social-image.svg": "/Deployed-Kshitij/static/media/social-image.542a07bd43db57ffd594dabd9f7120b5.svg",
+    "static/media/section4_left.svg": "/Deployed-Kshitij/static/media/section4_left.0a93b77cc6748adbc806ca98dad8fe79.svg",
+    "static/media/united-states-of-america-svgrepo-com.svg": "/Deployed-Kshitij/static/media/united-states-of-america-svgrepo-com.c29455bd55edb5ef966c8d28713423f8.svg",
+    "index.html": "/Deployed-Kshitij/index.html",
+    "static/media/hamburger.svg": "/Deployed-Kshitij/static/media/hamburger.29dec1d0059ac4af3204802a49a34e0e.svg",
+    "static/media/down.svg": "/Deployed-Kshitij/static/media/down.51b9d691daccfaf9b228d03c7c7a6d35.svg",
+    "main.c5664279.css.map": "/Deployed-Kshitij/static/css/main.c5664279.css.map",
+    "main.60d01488.js.map": "/Deployed-Kshitij/static/js/main.60d01488.js.map",
+    "787.db161c45.chunk.js.map": "/Deployed-Kshitij/static/js/787.db161c45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5664279.css",
+    "static/js/main.60d01488.js"
+  ]
+}
